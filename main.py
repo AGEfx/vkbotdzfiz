@@ -6,7 +6,7 @@ import json
 
 import time
 
-token = "ad6cd1bff0db87d89621cb8c609b0d51fc17a5c1f6803054b8170e761734c35c1838049e1cb9095c2ac6e"
+token = {type_token}
 main_peer_id = "2000000003"
 test_peer_id = "2000000002"
 
